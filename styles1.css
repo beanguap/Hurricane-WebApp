@@ -137,10 +137,10 @@ p {
     }
 }
 
-.card{
+.card {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(#070780 0%,#545f8a 100%);
+    background: linear-gradient(#6184D8 0%,#F4D35E 100%);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
