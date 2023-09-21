@@ -1,4 +1,4 @@
-# Hurricane-WebApp
+# Hurricane-Hackathon-Website
 Shellhacks 2023 Team Project - Weather Information Website
 
 Overview
