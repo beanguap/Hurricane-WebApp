@@ -23,9 +23,6 @@ Technologies Used
         Hurricane API 
         HTML API for shelter information
 
-Certainly! Here's a README file for your GitHub repository:
-Shellhacks 2023 Team Project - Weather Information Website
-
 Weather Website Screenshot
 Table of Contents
 
@@ -38,27 +35,6 @@ Table of Contents
     Contributors
     License
 
-Overview
-
-This project was developed by a team of four during Shellhacks 2023. We created an informative website that provides users with weather forecasts and other related information based on their location. The website also offers hurricane information and a contact form. Additionally, it integrates with an HTML API to display information about nearby shelters.
-Features
-
-    User-friendly interface for weather information
-    Automatic location detection to provide accurate weather data
-    Weather forecast including temperature, humidity, and wind speed
-    Hurricane information section
-    Contact us form for user inquiries
-    Integration with an HTML API for nearby shelter information
-
-Technologies Used
-
-    HTML
-    CSS
-    JavaScript
-    APIs:
-        Weather API (insert Weather API name and URL here)
-        Hurricane API (insert Hurricane API name and URL here)
-        HTML API for shelter information (insert HTML API name and URL here)
 
 Getting Started
 
